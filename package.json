@@ -8,6 +8,7 @@
     "type": "git",
     "url": "git://github.com/RallyApps/fetch-github-repo.git"
   },
+  "license": "MIT",
   "main": "index",
   "engines": {
     "node": ">0.10.32"
