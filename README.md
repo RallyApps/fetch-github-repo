@@ -1,6 +1,6 @@
-## Install 
+## Install
 
-[![Build Status](https://travis-ci.org/ferentchak/fetch-github-repo.png?branch=master)](https://travis-ci.org/ferentchak/fetch-github-repo)
+[![Build Status](https://travis-ci.org/RallyApps/fetch-github-repo.png?branch=master)](https://travis-ci.org/RallyApps/fetch-github-repo)
 
 `npm install fetch-github-repo`
 

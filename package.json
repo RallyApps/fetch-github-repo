@@ -1,12 +1,12 @@
 {
-  "author": "Charles Ferentchak <cobrien@rallydev.com>",
-  "name": "fetch-github-repo",
+  "author": "Kyle Morse <kmorse@rallydev.com>",
+  "name": "rally-fetch-github-repo",
   "description": "A small node utility that grabs a GitHub repo and downloads it into a directory.",
   "version": "0.2.2",
-  "homepage": "https://github.com/ferentchak/fetch-github-repo",
+  "homepage": "https://github.com/RallyApps/fetch-github-repo",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ferentchak/fetch-github-repo.git"
+    "url": "git://github.com/RallyApps/fetch-github-repo.git"
   },
   "main": "index",
   "engines": {
