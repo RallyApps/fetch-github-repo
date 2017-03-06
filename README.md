@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/RallyApps/fetch-github-repo.png?branch=master)](https://travis-ci.org/RallyApps/fetch-github-repo)
 
-`npm install fetch-github-repo`
+`npm install rally-fetch-github-repo`
 
 ## API
 
@@ -10,13 +10,13 @@ JavaScript
 ```
 var FetchGithubRepo, callback;
 
-FetchGithubRepo = require("fetch-github-repo");
+FetchGithubRepo = require("rally-fetch-github-repo");
 
 callback = function(err) {};
 
 FetchGithubRepo.download({
-  organization: 'ferentchak',
-  repo: "ferentchak.github.com",
+  organization: 'RallyApps',
+  repo: "fetch-github-repo",
   path: "."
 }, callback);
 
@@ -25,11 +25,11 @@ FetchGithubRepo.download({
 
 Coffee
 ```
-FetchGithubRepo = require "fetch-github-repo"
+FetchGithubRepo = require "rally-fetch-github-repo"
 callback = (err)->
 FetchGithubRepo.download
-  organization:'ferentchak'
-  repo : "ferentchak.github.com",
+  organization: 'RallyApps'
+  repo : "fetch-github-repo",
   path: "."
   callback
 ```
